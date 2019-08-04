@@ -1,3 +1,3 @@
 # <em>Booked-Up</em>
 
-<h3> Final project for Developer Cirlcles</h3>
+<h3><em> Final project for Developer Cirlcles</em></h3>
